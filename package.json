@@ -23,6 +23,6 @@
     "grunt-karma": "~0.6.2",
     "grunt": "",
     "karma-sauce-launcher": "~0.1.8",
-    "handlebars": "1.3.0"
+    "handlebars": "4.7.7"
   }
 }
